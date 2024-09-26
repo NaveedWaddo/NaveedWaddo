@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveedwaddo&label=Profile%20views&color=0e75b6&style=flat" alt="naveedwaddo" /> </p>
 
-<p align="left"> <a href="https://x.com/Naveed_1123" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+<p align="left"> <a href="https://x.com/Naveed_1123" target="blank"><img src="https://img.shields.io/twitter/follow/NaveedWaddo?logo=twitter&style=for-the-badge" alt="NaveedWaddo"  </p>
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 🔭 I’m currently working on **Exploring**
 
 - 🌱 I’m currently learning **DevOps**
 
