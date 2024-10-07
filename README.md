@@ -30,7 +30,7 @@
 ```javascript
 const Naveed = {
     pronouns: "He" | "Him",
-    code: ["C++", "Python", "Java", "C"],
+    code: ["C" , "C++", "Python", "Java", "JavaScript" , "TypeScript"],
     askMeAbout: ["web dev", "tech", "Cloud", "DevOps", "DevSecOps", "Competitive Programmming"],
     technologies: {
         backEnd: {
