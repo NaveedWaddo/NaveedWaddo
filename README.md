@@ -21,11 +21,11 @@
 
 ### About Me
 
-- 🔭 I’m currently working on **exploring new opportunities and projects**
-- 🌱 I’m currently learning **DevOps**
-- 💬 Ask me about **Android, MERN, Java, and DevOps**
+- 🔭 Full-Stack Engineer building scalable applications across web, mobile, and backend systems
+- 🌱 Actively learning DevOps, cloud platforms, and automation tools
+- 💬 Experienced with Android, MERN stack, Java, and modern software development workflows
+- 🚀 Focused on writing clean, maintainable, and production-ready code
 - 📫 Reach me at **naveedwaddo1123@gmail.com**
-- ⚡ Fun fact: **I am funny**
 
 ---
 
